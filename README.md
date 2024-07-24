@@ -31,5 +31,6 @@ Sound effects are sourced from a free asset pack available at the Unity AssetSto
 
 The game programming code takes inspiration from the Youtube Unity RPG tutorial series by Jeremy "jWohl1985". Below is a link to the video series' GitHub repository:
 [Unity-Youtube](https://github.com/jWohl1985/Unity-Youtube)
+
 Files that use programming code from the tutorial are marked with comments crediting the original author.
 

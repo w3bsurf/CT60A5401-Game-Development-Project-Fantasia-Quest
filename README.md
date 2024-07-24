@@ -26,10 +26,10 @@ Music is sourced from free assets available at the Unity AssetStore, the followi
 [25 Fantasy RPG Game Tracks Music Pack](https://assetstore.unity.com/packages/audio/music/25-fantasy-rpg-game-tracks-music-pack-240154)</br>
 [Casual Game BGM #5](https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943)
 
-Sound effects are sourced from a free asset pack available at the Unity AssetStore:
+Sound effects are sourced from a free asset pack available at the Unity AssetStore:</br>
 [RPG Essentials Sound Effects - FREE!](https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708)
 
-The game programming code takes inspiration from the Youtube Unity RPG tutorial series by Jeremy "jWohl1985". Below is a link to the video series' GitHub repository:
+The game programming code takes inspiration from the Youtube Unity RPG tutorial series by Jeremy "jWohl1985". The following is a link to the video series' GitHub repository:</br>
 [Unity-Youtube](https://github.com/jWohl1985/Unity-Youtube)</br>
 Files that use programming code from the tutorial are marked with comments crediting the original author.
 

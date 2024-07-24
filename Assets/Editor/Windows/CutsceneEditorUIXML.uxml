@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="main-view" style="flex-grow: 1;">
+        <ui:GroupBox name="command-list-box">
+            <ui:ListView name="command-list" />
+            <ui:IntegerField label="Position" value="0" name="position" />
+            <ui:Button text="Add Selected" parse-escape-sequences="true" display-tooltip-when-elided="true" name="add-button" tabindex="-1" />
+        </ui:GroupBox>
+        <ui:GroupBox name="scene-box">
+            <ui:ScrollView name="scene-info-scroll">
+                <ui:ListView name="scene-commands" />
+            </ui:ScrollView>
+        </ui:GroupBox>
+    </ui:VisualElement>
+</ui:UXML>

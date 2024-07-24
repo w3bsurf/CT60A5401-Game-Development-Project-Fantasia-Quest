@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bcbafd2e1f97c44cb61f6cf7e204d54, type: 3}
+  m_Name: MerchantStartDialogue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - speaker: Merchant
+    dialogue: '"How terrible! The Demon has attacked the village and now all the
+      villagers are missing! Please go and defeat the demon, brave hero!" (You can
+      advance the dialogue by pressing Enter or Space)'
+  - speaker: Merchant
+    dialogue: '"The Demon makes his lair in the cave past the forest outside this
+      village."'
+  - speaker: Merchant
+    dialogue: '"If you want to browse my wares you will need coin. The monsters in
+      the forest will surely drop some gold if you defeat them."'
+  - speaker: Merchant
+    dialogue: '"You can move the character with the arrow keys."'
+  - speaker: Merchant
+    dialogue: '"You can interact with me or any treasure chests you find using the
+      Enter or Space keys."'
+  - speaker: Merchant
+    dialogue: '"You can open and close the main menu with the Esc key. The arrow
+      keys will move your target selection while Enter will select. You can back
+      out of the submenus with the Esc key. "'
+  - speaker: Merchant
+    dialogue: '"In battle you can cycle between commands and targets with the arrow
+      keys and pressing Enter will select your current target. Esc will return to
+      the previous submenu."'
+  - speaker: Merchant
+    dialogue: '"May the blessing of Light be upon you!"'
+  endDialogue: 0
+  bossDialogue: 0

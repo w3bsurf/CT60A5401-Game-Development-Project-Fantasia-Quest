@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9e7bee50045d2d40b7de776217667f2, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  enemyName: Slime
+  battleEnemyMember: {fileID: 6486357312580872573, guid: 8b3d699393dcd0e4187a08f3ba94b961, type: 3}
+  enemyAttributes:
+    level: 1
+    hp: 8
+    maxhp: 8
+    str: 6
+    def: 7
+    spd: 2
+    intelligence: 1
+    expValue: 4
+    goldValue: 5

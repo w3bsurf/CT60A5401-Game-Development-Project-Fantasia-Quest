@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5c959ce56d90ca439755515b3a064bb, type: 3}
+  m_Name: Forest2BattleRegion
+  m_EditorClassIdentifier: 
+  encounterRate: 10
+  battleScene: 3
+  enemyGroups:
+  - {fileID: 11400000, guid: b467b4adb8fd3b1499f30c81324c47f3, type: 2}
+  - {fileID: 11400000, guid: 3715ff4a48ba7ec4fb9e75651e8a3a55, type: 2}
+  - {fileID: 11400000, guid: 1d2fe03232509224dbd12b434f323916, type: 2}
+  - {fileID: 11400000, guid: 745d19b9c6ed91a49b540e1d6088ca3d, type: 2}
+  groupEncounterRate: 1e0000003c0000005000000064000000

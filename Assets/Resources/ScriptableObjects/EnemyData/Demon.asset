@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9e7bee50045d2d40b7de776217667f2, type: 3}
+  m_Name: Demon
+  m_EditorClassIdentifier: 
+  enemyName: Demon
+  battleEnemyMember: {fileID: 6486357312580872573, guid: 1428f96e601370246b3eb6015fe6366c, type: 3}
+  enemyAttributes:
+    level: 10
+    hp: 100
+    maxhp: 100
+    str: 24
+    def: 16
+    spd: 12
+    intelligence: 20
+    expValue: 0
+    goldValue: 0

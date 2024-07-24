@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bcbafd2e1f97c44cb61f6cf7e204d54, type: 3}
+  m_Name: MageJoinDialogue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - speaker: Mage
+    dialogue: '"Are you a fellow adventurer on a quest to defeat the evil Demon?"'
+  - speaker: Hero
+    dialogue: '"Yes. He must be stopped."'
+  - speaker: Mage
+    dialogue: '"Shall we join forces to defeat him?"'
+  - speaker: Hero
+    dialogue: '"Of course, I''m sure the two of us can defeat him together!"'

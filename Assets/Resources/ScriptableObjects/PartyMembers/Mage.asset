@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6356efaf98322245b4d8b42aad5fdfd, type: 3}
+  m_Name: Mage
+  m_EditorClassIdentifier: 
+  charName: Mage
+  battlePartyMember: {fileID: 3206463065482623453, guid: 3d43974a65c9633478fc3b794d147987, type: 3}
+  characterAttributes:
+    level: 2
+    hp: 18
+    maxhp: 18
+    str: 3
+    def: 5
+    spd: 4
+    intelligence: 5
+    charClass: mage
+  charSprite: {fileID: 21300000, guid: 6450845039796c34cb9cc925c049de7a, type: 2}

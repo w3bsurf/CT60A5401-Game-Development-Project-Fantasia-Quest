@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Selectable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1560903221
+    locked: 0
+  - name: Collisions
+    uniqueID: 4054324689
+    locked: 0
+  - name: Ground_objects
+    uniqueID: 947523825
+    locked: 0
+  - name: Characters
+    uniqueID: 1475382901
+    locked: 0
+  - name: Transitions
+    uniqueID: 2201001895
+    locked: 0
+  - name: UI
+    uniqueID: 1056549085
+    locked: 0

@@ -22,15 +22,14 @@ Potions are limited to a maximum of 8. You can sell excess potions to the mercha
 
 ## Free outside assets from the Unity AssetStore and code from a Unity video tutorial
 Music is sourced from free assets available at the Unity AssetStore, the following assets were used:
-[Free 25 Fantasy RPG Tracks Vol. 1](https://assetstore.unity.com/packages/audio/music/free-25-fantasy-rpg-tracks-vol-1-275548)/n
-[25 Fantasy RPG Game Tracks Music Pack](https://assetstore.unity.com/packages/audio/music/25-fantasy-rpg-game-tracks-music-pack-240154)/n  
+[Free 25 Fantasy RPG Tracks Vol. 1](https://assetstore.unity.com/packages/audio/music/free-25-fantasy-rpg-tracks-vol-1-275548)</br>
+[25 Fantasy RPG Game Tracks Music Pack](https://assetstore.unity.com/packages/audio/music/25-fantasy-rpg-game-tracks-music-pack-240154)</br>  
 [Casual Game BGM #5](https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943)
 
 Sound effects are sourced from a free asset pack available at the Unity AssetStore:
 [RPG Essentials Sound Effects - FREE!](https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708)
 
 The game programming code takes inspiration from the Youtube Unity RPG tutorial series by Jeremy "jWohl1985". Below is a link to the video series' GitHub repository:
-[Unity-Youtube](https://github.com/jWohl1985/Unity-Youtube)
-
+[Unity-Youtube](https://github.com/jWohl1985/Unity-Youtube)</br>
 Files that use programming code from the tutorial are marked with comments crediting the original author.
 

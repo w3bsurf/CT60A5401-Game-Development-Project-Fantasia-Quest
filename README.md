@@ -21,7 +21,7 @@ Potions are limited to a maximum of 8. You can sell excess potions to the mercha
 
 
 ## Free outside assets from the Unity AssetStore and code from a Unity video tutorial
-Music is sourced from free assets available at the Unity AssetStore, the following assets were used:
+Music is sourced from free assets available at the Unity AssetStore, the following assets were used:</br>
 [Free 25 Fantasy RPG Tracks Vol. 1](https://assetstore.unity.com/packages/audio/music/free-25-fantasy-rpg-tracks-vol-1-275548)</br>
 [25 Fantasy RPG Game Tracks Music Pack](https://assetstore.unity.com/packages/audio/music/25-fantasy-rpg-game-tracks-music-pack-240154)</br>  
 [Casual Game BGM #5](https://assetstore.unity.com/packages/audio/music/casual-game-bgm-5-135943)

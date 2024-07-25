@@ -4,20 +4,22 @@ Made for the CT60A5401 Game Development Project course.
 ## Control Scheme
 The game is controlled with the keyboard.</br>
 Arrow keys control the player character as well as the cursor in menus.</br>
-Esc key will open and close the menu. Esc will also return to you to the previous part of menu when navigating submenus.</br>
-Enter will confirm your selection in menus.</br>
-Enter and Space are also used to interact with the merchant and treasure chest. They will also advance the dialogue.</br>
+ESC key will open and close the menu. ESC will also return to you to the previous part of menu when navigating submenus.</br>
+ENTER will confirm your selection in menus.</br>
+ENTER and SPACE are also used to interact with the merchant and treasure chest. They will also advance the dialogue.</br>
 
 
 ## Important to know
 The games is meant for Windows PCs and has only been tested using a Windows 10 PC.</br>
 The game is designed for 1920x1080 resolutions and will exhibit UI problems at different resolutions.</br>
+The executable should start in windowed mode but can be toggled with ALT + ENTER.</br>
 
 
 ## Tips
 Remember to equip weapons and armor you find from treasure chests.</br>
 The village and the first forest area both contain 1 treasure chest each. Other areas contain 2 treasure chests each with one piece of equipment inside.</br>
 Potions are limited to a maximum of 8. You can sell excess potions to the merchant and can buy better potions from him.</br>
+If you are defeated you can exit the battle to keep going with full health.</br>
 
 
 ## Free outside assets from the Unity AssetStore and code from a Unity video tutorial
